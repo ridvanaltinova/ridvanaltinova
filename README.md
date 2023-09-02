@@ -7,7 +7,7 @@
 </p>
 
 
-- 🌱 I’m currently learning __AWS Cloud Architect / DevOps Engineering__
+- 🌱 I’m AWS Solutions Architect / DevOps Engineering__
 - 👨‍💻 All of my projects are available at __https://github.com/ridvanaltinova__
 - 💬 Ask me about __AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, Prometheus, Grafana__
 - 📫 How to reach me: __r.altinova253@gmail.com__
