@@ -94,7 +94,7 @@
 <!-- <br><br> -->
 
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Rıdvan+ALTINOVA+%e2%9c%a8;%f0%9f%93%9a+AWS&DevOps+Engineer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" align="center" />
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Rıdvan+ALTINOVA+%e2%9c%a8;%f0%9f%93%9a+DevOps+Engineer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" align="center" />
 <!-- <img src="https://komarev.com/ghpvc/?username=Herr-Aksoy&&style=plastics&&color=yellow" align="right"/>--> </p> 
 
 
@@ -210,7 +210,7 @@
 <p align="center">
   <a>
     <img  src="https://github.com/ridvanaltinova/ridvanaltinova/blob/main/img/SolMat.png" width="182" >
-      <img src="https://github-readme-stats.vercel.app/api?username=Herr-Aksoy&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="Rıdvan ALTINOVA"  />
+      <img src="https://github-readme-stats.vercel.app/api?username=ridvanaltinova&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="Rıdvan ALTINOVA"  />
     <img  src="https://github.com/ridvanaltinova/ridvanaltinova/blob/main/img/SagMat.png"  width="182" >
   </a>
 </p>
@@ -470,7 +470,7 @@ Skills: AWS | Kubernetes | Docker | Python | Jenkins | Ansible | Terraform  | Gi
         <a href="https://www.linkedin.com/in/ridvanaltinova/">
           <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' title='Linkedin Profile'>
         </a>
-        <a href="https://www.instagram.com/ridvanaltinova?igsh=N3kxOWMwdDhsaTZl">
+        <a href="https://www.instagram.com/ridvanaltinova">
           <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' title='Instagram Profile'>
         </a>
         <a href="https://www.xing.com/profile/ridvanaltinova/web_profiles?expandNeffi=true">
