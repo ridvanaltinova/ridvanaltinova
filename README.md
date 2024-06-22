@@ -191,17 +191,17 @@
   </a>
   <span style="display: inline-block; width: 50px;"></span>
   <a href="https://github.com/ridvanaltinova">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herr-Aksoy&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true" alt="Top Langs" style="vertical-align: middle;" width="402" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridvanaltinova&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true" alt="Top Langs" style="vertical-align: middle;" width="402" >
   </a>
   <span style="display: inline-block; width: 50px;"></span>
   <a>
-    <img src="https://github.com/ridvanaltinova/Herr-Aksoy/blob/main/img/alevlikus.png" width="212" style="vertical-align: middle;">
+    <img src="https://github.com/ridvanaltinova/ridvanaltinova/blob/main/img/alevlikus.png" width="212" style="vertical-align: middle;">
   </a>
 </div>
 
 <p align="center">
   <a>
-    <img src="https://github.com/ridvanaltinova/Herr-Aksoy/blob/main/img/SolMat.png"  width="182">
+    <img src="https://github.com/ridvanaltinova/ridvanaltinova/blob/main/img/SolMat.png"  width="182">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridvanaltinova&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Ridvan ALTINOVA" width="452" />
     <img src="https://github.com/ridvanaltinova/ridvanaltinova/blob/main/img/SagMat.png"  width="182">
   </a>
@@ -210,7 +210,7 @@
 <p align="center">
   <a>
     <img  src="https://github.com/ridvanaltinova/ridvanaltinova/blob/main/img/SolMat.png" width="182" >
-      <img src="https://github-readme-stats.vercel.app/api?username=Herr-Aksoy&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="Ahmet Aksoy"  />
+      <img src="https://github-readme-stats.vercel.app/api?username=Herr-Aksoy&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="Rıdvan ALTINOVA"  />
     <img  src="https://github.com/ridvanaltinova/ridvanaltinova/blob/main/img/SagMat.png"  width="182" >
   </a>
 </p>
