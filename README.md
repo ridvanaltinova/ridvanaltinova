@@ -94,7 +94,7 @@
 <!-- <br><br> -->
 
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Ahmet+Aksoy+%e2%9c%a8;%f0%9f%93%9a+DevOps+Engineer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" align="center" />
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Rıdvan+ALTINOVA+%e2%9c%a8;%f0%9f%93%9a+AWS&DevOps+Engineer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" align="center" />
 <!-- <img src="https://komarev.com/ghpvc/?username=Herr-Aksoy&&style=plastics&&color=yellow" align="right"/>--> </p> 
 
 
@@ -122,12 +122,12 @@
 
 
                                                                    
-<!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/Herr-Aksoy?theme=unicorn)](https://leetcode.com/Herr-Aksoy/)  Bu istatistik gösteriyor ama nerenin bilmiyorum-->
+<!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/ridvanaltinova?theme=unicorn)](https://leetcode.com/ridvanaltinova/)  Bu istatistik gösteriyor ama nerenin bilmiyorum-->
 
 <!-- <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://github.com/404"><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Ahmet Aksoy" height="30" width="40"></a>
-<a href="https://www.linkedin.com/in/aksoy-ahmet/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmet Aksoy" height="30" width="40" /></a>
+  <a href="https://github.com/404"><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Rıdvan ALTINOVA" height="30" width="40"></a>
+<a href="https://www.linkedin.com/in/ridvanaltinova/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rıdvan ALTINOVA" height="30" width="40" /></a>
 <a href="https://medium.com/@cagatayakkas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cagatayakkas" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/çağatay akkaş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="çağatay akkaş" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/cagatayakkas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cagatayakkas" height="30" width="40" /></a>
@@ -187,39 +187,39 @@
  
 <div align="center">
   <a>
-    <img src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/alevlikus2.png" width="212" style="vertical-align: middle;">
+    <img src="https://github.com/ridvanaltinova/ridvanaltinova/blob/main/img/alevlikus2.png" width="212" style="vertical-align: middle;">
   </a>
   <span style="display: inline-block; width: 50px;"></span>
-  <a href="https://github.com/Herr-Aksoy">
+  <a href="https://github.com/ridvanaltinova">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herr-Aksoy&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true" alt="Top Langs" style="vertical-align: middle;" width="402" >
   </a>
   <span style="display: inline-block; width: 50px;"></span>
   <a>
-    <img src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/alevlikus.png" width="212" style="vertical-align: middle;">
+    <img src="https://github.com/ridvanaltinova/Herr-Aksoy/blob/main/img/alevlikus.png" width="212" style="vertical-align: middle;">
   </a>
 </div>
 
 <p align="center">
   <a>
-    <img src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SolMat.png"  width="182">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herr-Aksoy&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Ahmet Aksoy" width="452" />
-    <img src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SagMat.png"  width="182">
+    <img src="https://github.com/ridvanaltinova/Herr-Aksoy/blob/main/img/SolMat.png"  width="182">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridvanaltinova&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Ridvan ALTINOVA" width="452" />
+    <img src="https://github.com/ridvanaltinova/ridvanaltinova/blob/main/img/SagMat.png"  width="182">
   </a>
 </p>
 
 <p align="center">
   <a>
-    <img  src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SolMat.png" width="182" >
+    <img  src="https://github.com/ridvanaltinova/ridvanaltinova/blob/main/img/SolMat.png" width="182" >
       <img src="https://github-readme-stats.vercel.app/api?username=Herr-Aksoy&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="Ahmet Aksoy"  />
-    <img  src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SagMat.png"  width="182" >
+    <img  src="https://github.com/ridvanaltinova/ridvanaltinova/blob/main/img/SagMat.png"  width="182" >
   </a>
 </p>
  
 <!-- <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SolRenkli.png">
+    <img heigth="160" width="182" src="https://github.com/ridvanaltinova/ridvanaltinova/blob/main/img/SolRenkli.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Herr-Aksoy&theme=material-palenight&hide_border=false" alt="Ahmet Aksoy" width="55%" />
-    <img heigth="160" width="182" src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SagRenkli.png">
+    <img heigth="160" width="182" src="https://github.com/ridvanaltinova/ridvanaltinova/blob/main/img/SagRenkli.png">
   </a>
 </p> -->
  
@@ -234,18 +234,18 @@
  
 <p align="center">
   <a>
-    <img src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SolMat.png"  width="182">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Herr-Aksoy&theme=material-palenight&hide_border=false" alt="Ahmet Aksoy" width="452" />
-    <img src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SagMat.png"  width="182">
+    <img src="https://github.com/ridvanaltinova/ridvanaltinova/blob/main/img/SolMat.png"  width="182">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridvanaltinova&theme=material-palenight&hide_border=false" alt="Ridvan ALTINOVA" width="452" />
+    <img src="https://github.com/ridvanaltinova/ridvanaltinova/blob/main/img/SagMat.png"  width="182">
   </a>
 </p>
   
   
 <!-- <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/alevlikus2.png">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herr-Aksoy&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Ahmet Aksoy" />
-    <img heigth="160" width="182" src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/alevlikus.png">
+    <img heigth="160" width="182" src="https://github.com/ridvanaltinova/ridvanaltinova/blob/main/img/alevlikus2.png">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridvanaltinova&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Ridvan ALTINOVA" />
+    <img heigth="160" width="182" src="https://github.com/ridvanaltinova/ridvanaltinova/blob/main/img/alevlikus.png">
   </a>
 </p> -->
  
@@ -464,16 +464,16 @@ Skills: AWS | Kubernetes | Docker | Python | Jenkins | Ansible | Terraform  | Gi
         <h2>Social Media</h2>
       </td>
       <td style="text-align: center; width: 67%;">
-        <a href="https://github.com/Herr-Aksoy">
+        <a href="https://github.com/ridvanaltinova">
           <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' title='Github Profile'>
         </a>
-        <a href="https://www.linkedin.com/in/aksoy-ahmet/">
+        <a href="https://www.linkedin.com/in/ridvanaltinova/">
           <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' title='Linkedin Profile'>
         </a>
-        <a href="https://www.instagram.com/updated_devops?igsh=N3kxOWMwdDhsaTZl">
+        <a href="https://www.instagram.com/ridvanaltinova?igsh=N3kxOWMwdDhsaTZl">
           <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' title='Instagram Profile'>
         </a>
-        <a href="https://www.xing.com/profile/Ahmet_Aksoy68/web_profiles?expandNeffi=true">
+        <a href="https://www.xing.com/profile/ridvanaltinova/web_profiles?expandNeffi=true">
           <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg' alt='xing' height='40' title='Xing Profile'>
         </a>
         <!-- <a href="https://portfolio1.awspublic.link">
